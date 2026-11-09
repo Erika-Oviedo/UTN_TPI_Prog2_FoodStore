@@ -36,7 +36,8 @@ food_store/
 
 Dependencia en un solo sentido: consola → servicios → entidades.
 
-## Enlaces (completar antes de entregar)
+## Enlaces 
 
-- Video demostración: _<pegar enlace con permisos públicos de visualización>_
-- Informe en PDF: `Informe_TPI_FoodStore.pdf` (en la raíz de este repositorio)
+- Video demostración: _<en la segunda entrega, a espera de las correcciones.>_
+- Informe en PDF: `Informe TPI-FoodStore.pdf`
+- Repositorio Git: https://github.com/Erika-Oviedo/UTN_TPI_Prog2_FoodStore
