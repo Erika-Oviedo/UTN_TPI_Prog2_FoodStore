@@ -39,6 +39,6 @@ Dependencia en un solo sentido: consola → servicios → entidades.
 
 ## Enlaces 
 
-- Video demostración: _<en la segunda entrega, a espera de las correcciones.>_
+- Video demostración: _<https://youtu.be/YJNSBI94Xo8>_
 - Informe en PDF: `Informe TPI-FoodStore.pdf`
 - Repositorio Git: https://github.com/Erika-Oviedo/UTN_TPI_Prog2_FoodStore
